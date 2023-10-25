@@ -9,5 +9,8 @@
         <module name="back_end" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Car_Rental_System" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
